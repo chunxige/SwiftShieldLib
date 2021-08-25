@@ -1,15 +1,26 @@
 PODS:
-  - SwiftShieldLib (0.1.0)
+  - Alamofire (4.9.1)
+  - SnapKit (4.2.0)
+  - SwiftShieldLib (0.1.0):
+    - Alamofire
+    - SnapKit
 
 DEPENDENCIES:
   - SwiftShieldLib (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - SnapKit
 
 EXTERNAL SOURCES:
   SwiftShieldLib:
     :path: "../"
 
 SPEC CHECKSUMS:
-  SwiftShieldLib: fc9248ad138858309cfe75504cd562f4a3286aae
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftShieldLib: cb6c522a7dbebe6003d31f0a9f168fc6f4ad45ba
 
 PODFILE CHECKSUM: 10686d8b7291dcfcb4019f325f6862f1aa296244
 

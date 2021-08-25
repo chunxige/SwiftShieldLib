@@ -18,5 +18,13 @@
   "platforms": {
     "ios": "9.0"
   },
-  "source_files": "SwiftShieldLib/Classes/**/*"
+  "source_files": "SwiftShieldLib/Classes/**/*",
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SnapKit": [
+
+    ]
+  }
 }
