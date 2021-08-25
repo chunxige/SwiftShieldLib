@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'SwiftShieldLib_Example' do
+  pod 'SwiftShieldLib', :path => '../'
+
+  target 'SwiftShieldLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

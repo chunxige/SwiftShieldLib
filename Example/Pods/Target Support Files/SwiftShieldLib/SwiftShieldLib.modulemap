@@ -1,0 +1,6 @@
+framework module SwiftShieldLib {
+  umbrella header "SwiftShieldLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

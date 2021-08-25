@@ -1,0 +1,16 @@
+PODS:
+  - SwiftShieldLib (0.1.0)
+
+DEPENDENCIES:
+  - SwiftShieldLib (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftShieldLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftShieldLib: fc9248ad138858309cfe75504cd562f4a3286aae
+
+PODFILE CHECKSUM: 10686d8b7291dcfcb4019f325f6862f1aa296244
+
+COCOAPODS: 1.10.1
